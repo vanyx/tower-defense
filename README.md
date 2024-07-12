@@ -1,5 +1,5 @@
-		      Projet Tower Defense (2020)
-		Thomas BENALOUANE – Fabien LE MORZADEC
+   Projet Tower Defense (2020)
+   Thomas BENALOUANE – Fabien LE MORZADEC
 
 
 # I. CONCEPT DU JEU
@@ -22,13 +22,13 @@ Toute les commandes sont affichées dans la console lors du lancement du jeu.
 
 # II. AMELIORATION
 
-## 1)	Amélioration des tours :
+## 1)	Amélioration des tours
 Le joueur a la possibilité d’améliorer chaque tour, sauf les tesla.
 L’amélioration d’une tour coûte 40 d’or pour la passer au niveau 2, et 60 pour le niveau 3.
 A chaque amélioration la tour récupère toute sa vie, gagne 1.5 de dégâts, 3 de vitesse et 0.05 de portée.
 La mine d’or gagne quant à elle 15 de vitesse et 15 de gain à chaque amélioration.
 
-## 2)	Tours :
+## 2)	Tours
 Nous avons rajouté d’autres tours, en plus de celles déjà données.
 
 - La tour anti aérienne : Elle tire des missiles téléguides (roquettes) sur les monstres volant.
@@ -45,10 +45,10 @@ Elle coute 50 d’or, et a une portée de 0.2. Lorsqu’un monstre est touché p
 - La mine d’or : Elle permet de rapporter de l’or toute les n secondes.
 Elle cout 50 d’or, et rapporte 20 d’or tous les 150 update().
 
-## 3)	Menu :
+## 3)	Menu
 Lors du lancement du jeu le joueur a la possibilité de sélectionner ses options de jeu, à l’aide de boutons.
 
-## 4)	Monstres :
+## 4)	Monstres
 Nous avons ajouté 2 types de monstres :
 
 La sorcière : Elle a les mêmes caractéristiques que les monstres terrestres (BaseMonster).
@@ -61,7 +61,7 @@ Le golem : Il se déplace à une vitesse de 0.0035, a une récompense de 50 d’
 Il est utilisé comme boss final lors de la 10e manche du mode classique.
 En mode survie, il peut apparaitre plusieurs fois parmi les monstres d’une vague à partir de la 30e vague.
 
-## 5)	Réparation des tours :
+## 5)	Réparation des tours
 Nous avons également ajouté la possibilité de réparer les tours.
 Réparer une tour coute 30 d’or, et remet la vie de la tour à 3.
 
