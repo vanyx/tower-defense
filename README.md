@@ -1,8 +1,5 @@
 # Projet Tower Defense (2020)
 
-Thomas BENALOUANE – Fabien LE MORZADEC
-
-
 # I. CONCEPT DU JEU
 
 Notre jeu est basé sur les graphismes du jeu mobile Clash Of Clan.
